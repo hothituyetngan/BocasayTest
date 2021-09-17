@@ -1,0 +1,12 @@
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\bin\Debug\netcoreapp3.1\Bocasay.Infrastructure.deps.json
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\bin\Debug\netcoreapp3.1\Bocasay.Infrastructure.dll
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\bin\Debug\netcoreapp3.1\Bocasay.Infrastructure.pdb
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\bin\Debug\netcoreapp3.1\Bocasay.Domain.dll
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\bin\Debug\netcoreapp3.1\Bocasay.Domain.pdb
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\obj\Debug\netcoreapp3.1\Bocasay.Infrastructure.csprojAssemblyReference.cache
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\obj\Debug\netcoreapp3.1\Bocasay.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\obj\Debug\netcoreapp3.1\Bocasay.Infrastructure.AssemblyInfo.cs
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\obj\Debug\netcoreapp3.1\Bocasay.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\obj\Debug\netcoreapp3.1\Bocasay.Infrastructure.csproj.CopyComplete
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\obj\Debug\netcoreapp3.1\Bocasay.Infrastructure.dll
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Infrastructure\obj\Debug\netcoreapp3.1\Bocasay.Infrastructure.pdb

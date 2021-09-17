@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bocasay.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Bocasay.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bocasay.Infrastructure.dll": {}
+        }
+      },
+      "Bocasay.Domain/1.0.0": {
+        "runtime": {
+          "Bocasay.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bocasay.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bocasay.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

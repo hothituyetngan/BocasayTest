@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iN5BEWykI8ConIwcKKPWGOaq8iyeTVt7ILKFHrtQ0WZvGG17dlGVuLQFHz1DOpVjUpbDK72rj7mlZxUQCGDWWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nganhtty\\Desktop\\Bocasay\\Bocasay.Application\\Bocasay.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nganhtty\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\nganhtty\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\nganhtty\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\nganhtty\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

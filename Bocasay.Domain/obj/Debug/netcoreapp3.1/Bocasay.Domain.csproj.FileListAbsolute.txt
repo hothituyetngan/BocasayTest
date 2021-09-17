@@ -1,0 +1,9 @@
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\bin\Debug\netcoreapp3.1\Bocasay.Domain.deps.json
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\bin\Debug\netcoreapp3.1\Bocasay.Domain.dll
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\bin\Debug\netcoreapp3.1\Bocasay.Domain.pdb
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\obj\Debug\netcoreapp3.1\Bocasay.Domain.csprojAssemblyReference.cache
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\obj\Debug\netcoreapp3.1\Bocasay.Domain.AssemblyInfoInputs.cache
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\obj\Debug\netcoreapp3.1\Bocasay.Domain.AssemblyInfo.cs
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\obj\Debug\netcoreapp3.1\Bocasay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\obj\Debug\netcoreapp3.1\Bocasay.Domain.dll
+C:\Users\nganhtty\Desktop\Bocasay\Bocasay.Domain\obj\Debug\netcoreapp3.1\Bocasay.Domain.pdb

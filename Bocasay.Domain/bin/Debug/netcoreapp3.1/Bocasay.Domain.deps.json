@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bocasay.Domain/1.0.0": {
+        "runtime": {
+          "Bocasay.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bocasay.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
